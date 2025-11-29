@@ -1,2 +1,4 @@
 # demo-repo
-This is my first git repository. author - Jeetendra singh chandel
+This is my first git repository.
+<br>
+author - Jeetendra singh chandel
